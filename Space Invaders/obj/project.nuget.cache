@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnjKjIdq1yiC0d3BI4+zC2FVaL89FdbeA/M0KmmPtbx59jN+qf1BEwIp1RB+ejzturv9TfL0E4t1T1k71rq23g==",
+  "success": true,
+  "projectFilePath": "/Users/yamassi/GameDev/Space Invaders/Space Invaders/Space Invaders.csproj",
+  "expectedPackageFiles": [
+    "/Users/yamassi/.nuget/packages/csfml/2.6.1/csfml.2.6.1.nupkg.sha512",
+    "/Users/yamassi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/yamassi/.nuget/packages/sfml.audio/2.6.0/sfml.audio.2.6.0.nupkg.sha512",
+    "/Users/yamassi/.nuget/packages/sfml.graphics/2.6.0/sfml.graphics.2.6.0.nupkg.sha512",
+    "/Users/yamassi/.nuget/packages/sfml.net/2.6.0/sfml.net.2.6.0.nupkg.sha512",
+    "/Users/yamassi/.nuget/packages/sfml.system/2.6.0/sfml.system.2.6.0.nupkg.sha512",
+    "/Users/yamassi/.nuget/packages/sfml.window/2.6.0/sfml.window.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
