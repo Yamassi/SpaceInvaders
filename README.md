@@ -13,3 +13,5 @@ Space Invaders — это аркадная игра, в которой игро�
 
 Управление "WASD"
 Стрельба "Пробел"
+
+<img width="620" alt="Screenshot 2024-12-03 at 00 59 20" src="https://github.com/user-attachments/assets/6df0b7ca-cf66-4cd5-9c56-f99fd1535f7a">
